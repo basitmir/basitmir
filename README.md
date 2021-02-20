@@ -6,13 +6,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-&nbsp;🎓 &nbsp;I have done my Masters in Computer Applications.\
-&nbsp;&nbsp;🌱 &nbsp;I'm on track for learning more about Web, Mobile and Desktop Applications.
+💡 I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 I have done my Masters in Computer Applications.\
+🌱 I'm on track for learning more about Web, Mobile and Desktop Applications.
 <!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
-&nbsp;&nbsp;&nbsp;💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-&nbsp;&nbsp;&nbsp;&nbsp;✉️ &nbsp;You can shoot me an email at iammirbasit@gmail.com! I'll try to respond as soon as I can.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 &nbsp;Please have a look at my [Résumé](https://www.basir.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ You can shoot me an email at iammirbasit@gmail.com! I'll try to respond as soon as I can.\
+📄 Please have a look at my [Résumé](https://www.basir.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 <!--<img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" height="200" width="300"/>-->

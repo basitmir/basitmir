@@ -1,6 +1,6 @@
 ![BASIT MIR](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Ban.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit</h2>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Basit -->
 

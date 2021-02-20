@@ -1,10 +1,10 @@
 ![BASIT MIR](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Ban.jpg)
 
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit</h2>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit</h2><span align="right">![](https://visitor-badge.glitch.me/badge?page_id=basitmir)</span>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Basit -->
 
-### 👨🏻‍💻 &nbsp;About Me  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=basitmir)
+### 👨🏻‍💻 &nbsp;About Me 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have done my Masters in Computer Applications.\

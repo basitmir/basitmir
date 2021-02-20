@@ -19,9 +19,24 @@
 ### 🛠 &nbsp;Tech Stack
 
 <p>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp
+       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
 </p>
+   <!--    ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+      ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+      ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)&nbsp; -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 

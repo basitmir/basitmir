@@ -8,20 +8,20 @@
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have done my Masters in Computer Applications.\
-🌱 &nbsp;I'm on track for learning more about Web, Mobile and Desktop Applications.\
+🌱 &nbsp;I'm on track for learning more about Web, Mobile and Desktop Applications.
 <!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at iammirbasit@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.basir.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
-<img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right"/>
+<!--<img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" height="200" width="300"/>-->
 ### 🛠 &nbsp;Tech Stack
 
-<span>
+<p>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-</span>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

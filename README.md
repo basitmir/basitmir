@@ -30,9 +30,9 @@
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
-       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
-       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
-       <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="mysql" width="40" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="mysql" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="mysql" height="40"/>  &nbsp;
+       <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
 </p>
    <!--    ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
       ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;

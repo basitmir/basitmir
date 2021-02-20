@@ -15,7 +15,7 @@
 <!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>-->
-<br/>
+
 <img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" height="185" width="320"/>
 ### 🛠 &nbsp;Tech Stack
 <p></p>
@@ -24,20 +24,20 @@
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT"  height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
+        <img src="https://img.shields.io/badge/-05122A?style=flat-square&logo=C%2B%2B" alt="mysql"  height="30"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="mysql" height="40"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="mysql" height="40"/>  &nbsp;
+      <img src="https://img.shields.io/badge/-05122A?style=flat-square&logo=C&logoColor=A8B9CC" alt="mysql"  height="30"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="mysql" height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
       <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
+      <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="mysql"  height="30"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="mysql" height="40"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="mysql" height="40"/>  &nbsp;
        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
-        <img src="https://img.shields.io/badge/-05122A?style=flat-square&logo=C&logoColor=A8B9CC" alt="mysql"  height="40"/>  &nbsp;
-        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="mysql"  height="40"/>  &nbsp;
-        <img src="https://img.shields.io/badge/-05122A?style=flat-square&logo=C%2B%2B" alt="mysql"  height="40"/>  &nbsp;
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics

@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Basit -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=basitmir)
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have done my Masters in Computer Applications.\

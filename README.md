@@ -1,6 +1,7 @@
 <!--![BASIT MIR](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Ban.jpg)-->
-
-<img src="./self.gif" height='500' align="center"/>
+<p align="center">
+<img src="./self.gif" height='400' />
+</p>
 <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit <img src="https://visitor-badge.glitch.me/badge?page_id=basitmir" align="right"/></h2>
 
 

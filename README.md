@@ -15,9 +15,10 @@
 <!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>-->
+<br/>
 <img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" height="185" width="320"/>
-### 🛠 &nbsp;Tech Stack<br/>
-
+### 🛠 &nbsp;Tech Stack
+<p></p>
 
 <p>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="mysql"  height="40"/>  &nbsp;

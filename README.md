@@ -42,13 +42,13 @@
        <img src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" alt="mysql"  height="40"/>  &nbsp;
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GITHUB ANALYTICS
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basitmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;CONNECT WITH ME
 
 <p align="center">
 <a href="https://basitmir.github.io/"><img src="https://img.shields.io/badge/-basitmir.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>

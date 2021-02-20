@@ -1,7 +1,9 @@
 <!--![BASIT MIR](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Ban.jpg)-->
-
-
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit</h2><p align="right">![](https://visitor-badge.glitch.me/badge?page_id=basitmir)</p>
+<p align="center">
+<img src="./self.gif" height='500'/>
+</p>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit</h2>
+<p align="right">![](https://visitor-badge.glitch.me/badge?page_id=basitmir)</p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Basit -->
 

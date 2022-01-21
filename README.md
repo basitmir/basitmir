@@ -50,7 +50,10 @@
 ### ⚙️ &nbsp;GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basitmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://basitmir.github.io/">
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basitmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir&theme=dark&hide_border=true" />
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp;CONNECT WITH ME
@@ -63,3 +66,18 @@
 <a href="https://www.facebook.com/basit.mir.9"><img src="https://img.shields.io/badge/-@basit.mir.9-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/iambasitmir"><img src="https://img.shields.io/badge/-@iambasitmir-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
+<div style="display: flex; flex-direction: row;">
+
+
+<p align="left">
+  <a href="https://basitmir.github.io/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir&theme=dark&hide_border=true&layout=compact" />
+<span>
+<img  width="49.5%"   src="https://readme-jokes.vercel.app/api" />
+<span>
+  </a>
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=basitmir&theme=react-dark&hide_border=true&area=true" />
+
+

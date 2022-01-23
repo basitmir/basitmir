@@ -21,7 +21,7 @@
 
 <!-- <img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" height="200" width="320"/> -->
 
-<img alt="Night Coding" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" align="right" height="330" width="400"/>
+<img alt="Night Coding" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" align="right" height="330" width="400"/></br>
 ### 🛠 &nbsp;TECH STACK
 <p></p>
 
@@ -46,7 +46,7 @@
        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="mysql"  height="40"/>  &nbsp;
         <img src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" alt="mysql"  height="40"/>  &nbsp;
       
-</p>
+</p></br>
 
 ### ⚙️ &nbsp;GITHUB ANALYTICS
 

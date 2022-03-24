@@ -16,7 +16,7 @@
 🌱 I'm on track for learning more about Web, Mobile and Desktop Applications.\
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ You can shoot me an email at iammirbasit@gmail.com! I'll try to respond as soon as I can.\
-📄 Please have a look at my [Résumé](https://www.basit.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1ed1nRbaDqlWl4KllgKiUv29w7cw0T7_R/view) for more details about me. I'm open to feedback and suggestions!
 <!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>-->

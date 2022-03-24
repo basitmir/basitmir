@@ -53,7 +53,7 @@
 ### ⚙️ &nbsp;GITHUB ANALYTICS
 
 <p align="center">
-  <a href="https://basitmir.github.io/">
+  <a href="https://basit-nickelfox.github.io/">
   <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-nickelfox&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=basit-nickelfox&theme=dark&hide_border=true" />
   </a>

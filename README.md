@@ -2,7 +2,9 @@
 <p align="center">
 <img src="./self.gif" height='400' />
 </p>
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit <img src="https://visitor-badge.glitch.me/badge?page_id=basitmir" align="right"/></h2>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit 
+<!--        <img src="https://visitor-badge.glitch.me/badge?page_id=basitmir" align="right"/> -->
+</h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Basit -->
@@ -52,8 +54,8 @@
 
 <p align="center">
   <a href="https://basitmir.github.io/">
-  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basitmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-nickelfox&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=basit-nickelfox&theme=dark&hide_border=true" />
   </a>
 </p>
 
@@ -73,12 +75,12 @@
 
 <p align="left">
   <a href="https://basitmir.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir&theme=dark&hide_border=true&layout=compact" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-nickelfox&theme=dark&hide_border=true&layout=compact" />
 <span>
 <img  width="49.5%"   src="https://readme-jokes.vercel.app/api" />
 <span>
   </a>
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=basitmir&theme=react-dark&hide_border=true&area=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=basit-nickelfox&theme=react-dark&hide_border=true&area=true" />
 
 

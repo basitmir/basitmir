@@ -62,7 +62,7 @@
 ### 🤝🏻 &nbsp;CONNECT WITH ME
 
 <p align="center">
-<a href="https://basitmir.github.io/"><img src="https://img.shields.io/badge/-basitmir.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://basit-nickelfox.github.io/"><img src="https://img.shields.io/badge/-basitmir.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://in.linkedin.com/in/basitmir"><img src="https://img.shields.io/badge/-Basit%20Mir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:iammirbasit@gmail.com"><img src="https://img.shields.io/badge/-iammirbasit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/basit_mir/"><img src="https://img.shields.io/badge/-@basit_mir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

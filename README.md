@@ -74,13 +74,13 @@
 
 
 <p align="left">
-  <a href="https://basit-nickelfox.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-nickelfox&theme=dark&hide_border=true&layout=compact" />
+  <a href="https://abasitmir.github.io/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasitmir&theme=dark&hide_border=true&layout=compact" />
 <span>
 <img  width="49.5%"   src="https://readme-jokes.vercel.app/api" />
 <span>
   </a>
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=basit-nickelfox&theme=react-dark&hide_border=true&area=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=abasitmir&theme=react-dark&hide_border=true&area=true" />
 
 

@@ -3,7 +3,7 @@
 <img src="./self.gif" height='400' />
 </p>
 <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit 
-<!--        <img src="https://visitor-badge.glitch.me/badge?page_id=abasitmir" align="right"/> -->
+<!--        <img src="https://visitor-badge.glitch.me/badge?page_id=basitmir" align="right"/> -->
 </h2>
 
 
@@ -53,16 +53,16 @@
 ### ⚙️ &nbsp;GITHUB ANALYTICS
 
 <p align="center">
-  <a href="https://abasitmir.github.io/">
-  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abasitmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abasitmir&theme=dark&hide_border=true" />
+  <a href="https://basitmir.github.io/">
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basitmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir&theme=dark&hide_border=true" />
   </a>
 </p>
 
 ### 🤝🏻 &nbsp;CONNECT WITH ME
 
 <p align="center">
-<a href="https://abasitmir.github.io/"><img src="https://img.shields.io/badge/-basit.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://basitmir.github.io/"><img src="https://img.shields.io/badge/-basit.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://in.linkedin.com/in/basitmir"><img src="https://img.shields.io/badge/-Basit%20Mir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:iammirbasit@gmail.com"><img src="https://img.shields.io/badge/-iammirbasit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/basit_mir/"><img src="https://img.shields.io/badge/-@basit_mir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -74,13 +74,13 @@
 
 
 <p align="left">
-  <a href="https://abasitmir.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasitmir&theme=dark&hide_border=true&layout=compact" />
+  <a href="https://basitmir.github.io/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir&theme=dark&hide_border=true&layout=compact" />
 <span>
 <img  width="49.5%"   src="https://readme-jokes.vercel.app/api" />
 <span>
   </a>
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=abasitmir&theme=react-dark&hide_border=true&area=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=basitmir&theme=react-dark&hide_border=true&area=true" />
 
 

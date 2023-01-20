@@ -3,7 +3,7 @@
 <img src="./self.gif" height='400' />
 </p>
 <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Basit 
-<!--        <img src="https://visitor-badge.glitch.me/badge?page_id=basitmir" align="right"/> -->
+<img src="https://gpvc.arturio.dev/basitmir" align="right"/>
 </h2>
 
 
@@ -81,6 +81,6 @@
 <span>
   </a>
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=basitmir&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=basitmir&theme=react-dark" />
 
 

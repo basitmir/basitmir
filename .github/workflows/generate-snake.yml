@@ -1,31 +1,31 @@
-name: Generate GitHub Snake Animation
+# name: Generate GitHub Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"  # every day at midnight UTC
+#   workflow_dispatch:
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+# jobs:
+#   generate:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake SVG + GIF
-        uses: Platane/snk@v3.3.0
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
-            assets/github-snake.gif?color_snake=#FFA500&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
+#       - name: Generate GitHub Snake SVG + GIF
+#         uses: Platane/snk@v3.3.0
+#         with:
+#           github_user_name: ${{ github.repository_owner }}
+#           outputs: |
+#             assets/github-snake.svg
+#             assets/github-snake-dark.svg?palette=github-dark
+#             assets/github-snake.gif?color_snake=#FFA500&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
 
-      - name: Commit and Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add assets/github-snake*
-          git commit -m "Update GitHub contribution snake animation" || echo "No changes to commit"
-          git push
+#       - name: Commit and Push
+#         run: |
+#           git config user.name github-actions
+#           git config user.email github-actions@github.com
+#           git add assets/github-snake*
+#           git commit -m "Update GitHub contribution snake animation" || echo "No changes to commit"
+#           git push
